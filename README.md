@@ -3,6 +3,8 @@
 
 This tool enables you to **download Amazon user reviews by category** from the extensive **[McAuley-Lab/Amazon-Reviews-2023 dataset](https://cseweb.ucsd.edu/~jmcauley/)**. Designed for handling **very large datasets**, it is ideal for projects involving data analysis, research, or advanced Python workflows.
 
+For the complete results of Python Pandas vs Python Ibis, [just visit Peak Python for the 9 page report.](https://www.peakpython.com/blog/pandas-ibis-performance)
+
 ---
 
 ## **About This Program**
